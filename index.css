@@ -1,0 +1,17 @@
+body{
+	background: black;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: "Roboto", sans-serif;
+}
+
+.text{
+	color: transparent;
+	font-size: 70px;
+	background: url(./1.jpg);
+	background-clip: text;
+	background-size: cover;
+	font-weight: 1000;
+}
